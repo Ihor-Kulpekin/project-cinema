@@ -14,7 +14,7 @@
     <session id="494139670">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.28" value="1" />
@@ -46,7 +46,7 @@
           <entry key="class" value="2" />
           <entry key="css" value="2" />
           <entry key="html" value="1" />
-          <entry key="java" value="28" />
+          <entry key="java" value="29" />
           <entry key="jsp" value="19" />
           <entry key="xml" value="2" />
         </counts>
@@ -56,7 +56,7 @@
           <entry key="CLASS" value="2" />
           <entry key="CSS" value="2" />
           <entry key="HTML" value="1" />
-          <entry key="JAVA" value="28" />
+          <entry key="JAVA" value="29" />
           <entry key="JSP" value="19" />
           <entry key="XML" value="2" />
         </counts>
@@ -77,7 +77,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/cinemaplaza/dao/RegisterDao.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="174">
@@ -85,6 +85,15 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/cinemaplaza/dao/LoginDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="310">
+              <caret line="31" column="33" lean-forward="true" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -134,6 +143,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -193,6 +205,7 @@
     <option name="width" value="771" />
     <option name="height" value="788" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -206,64 +219,6 @@
             <path>
               <item name="CinemaPlaza" type="b2602c69:ProjectViewProjectNode" />
               <item name="CinemaPlaza" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CinemaPlaza" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CinemaPlaza" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CinemaPlaza" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CinemaPlaza" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CinemaPlaza" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CinemaPlaza" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CinemaPlaza" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CinemaPlaza" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cinemaplaza" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CinemaPlaza" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CinemaPlaza" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cinemaplaza" type="462c0819:PsiDirectoryNode" />
-              <item name="controllers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CinemaPlaza" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CinemaPlaza" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cinemaplaza" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CinemaPlaza" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CinemaPlaza" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cinemaplaza" type="462c0819:PsiDirectoryNode" />
-              <item name="dbconnection" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CinemaPlaza" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CinemaPlaza" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -342,7 +297,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49836066" visible="true" weight="0.48411497" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49836066" visible="true" weight="0.48184568" />
       <window_info id="Structure" order="6" sideWeight="0.50163937" side_tool="true" weight="0.47655067" />
       <window_info id="DB Browser" order="7" weight="0.32980332" />
       <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
@@ -351,7 +306,7 @@
       <window_info anchor="bottom" id="Messages" order="3" weight="0.3295082" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.3295082" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.3295082" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -502,13 +457,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/cinemaplaza/dao/LoginDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="31" column="33" lean-forward="true" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/cinemaplaza/dbconnection/DBConnection.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="327">
@@ -536,6 +484,13 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cinemaplaza/dao/LoginDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="31" column="33" lean-forward="true" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
         </state>
       </provider>
     </entry>
