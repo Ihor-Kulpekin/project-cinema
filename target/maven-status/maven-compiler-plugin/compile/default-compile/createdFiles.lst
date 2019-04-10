@@ -1,0 +1,8 @@
+com\cinemaplaza\dbconnection\DBConnection.class
+com\cinemaplaza\model\User.class
+com\cinemaplaza\controllers\LogoutServlet.class
+com\cinemaplaza\controllers\MainController.class
+com\cinemaplaza\controllers\RegisterServlet.class
+com\cinemaplaza\controllers\LoginServlet.class
+com\cinemaplaza\dao\LoginDao.class
+com\cinemaplaza\dao\RegisterDao.class
