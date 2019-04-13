@@ -47,6 +47,14 @@ function validate()
  <td><input type="submit" value="Login"></input><input
  type="reset" value="Reset"></input></td>
  </tr>
+
+ <tr>
+    <td></td>
+    <td><a href="ResetPasswordServlet"><span>Forgot password?</span></a>
+
+    </td>
+ </tr>
+
 </table>
 </form>
 

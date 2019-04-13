@@ -27,9 +27,9 @@ public class RegisterDao {
             preparedStatement.setString(3, userName);
             preparedStatement.setString(4, password);
 
-            int i= preparedStatement.executeUpdate();
+            int executeUpdate= preparedStatement.executeUpdate();
 
-            if (i!=0)  //Just to ensure data has been inserted into the database
+            if (executeUpdate!=0)  //Just to ensure data has been inserted into the database
                 return "SUCCESS";
         }
         catch(SQLException e)
